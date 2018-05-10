@@ -103,8 +103,6 @@ def payload(result)
   puts @total_payload
 end
 
-
-
 launch_count(launches_result)
 payload(@rocket_result)
 rocket_lauches_cost(launches_result)
